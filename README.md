@@ -7,4 +7,4 @@ Placeholder repository for a new Dutch language model based on the RoBERTa archi
 
 ## Credits
 
-A major shout out to the brilliant @elslooo for the name of this model 🤗
+A major shout out to the brilliant [@elslooo](https://github.com/elslooo) for the name of this model 🤗
