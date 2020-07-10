@@ -102,7 +102,9 @@ On top of that, RobBERT is trained on a shuffled corpus (at line level) while be
 
 ## Acknowledgements
 
-This work was carried out on the Dutch national e-infrastructure with the support of SURF Cooperative.
+This work was carried out on the Dutch national e-infrastructure with the support of [SURF Cooperative](http://surfsara.nl/).
+
+Thanks to the builders of the [OSCAR](https://oscar-corpus.com/) corpus for giving me permission to use the unshuffled Dutch version
 
 A major shout out to the brilliant [@elslooo](https://github.com/elslooo) for the name of this model 🤗
 
