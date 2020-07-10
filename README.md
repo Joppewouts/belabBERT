@@ -88,8 +88,8 @@ Contrary to BERT, the masking is done dynamically during pretraining (e.g., it c
 ### Pretraining
 
 The model was trained on 4 Titan RTX GPUs for 115K steps with a batch size of 1.3K and a sequence length of 512. The
-optimizer used is Adam with a learning rate of 5e-5, \\(\beta_{1} = 0.9\\), \\(\beta_{2} = 0.98\\) and
-\\(\epsilon = 1e-6\\), a weight decay of 0.01, learning rate warmup for 20000 steps and linear decay of the learning
+optimizer used is Adam with a learning rate of 5e-5, ![image](https://render.githubusercontent.com/render/math?math=%5Cbeta_%7B1%7D%20%3D%200.9), ![image](https://render.githubusercontent.com/render/math?math=%5Cbeta_%7B2%7D%20%3D%200.98) and
+![image](https://render.githubusercontent.com/render/math?math=%5Cepsilon%20%3D%201e%5E%7B-6%7D), a weight decay of 0.01, learning rate warmup for 20000 steps and linear decay of the learning
 rate after.
 
 ## Evaluation results
